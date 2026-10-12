@@ -48,7 +48,7 @@ Publish the app to **one** of these and paste the live link below. Because this 
 - **Vercel:** `vercel` CLI or "Import Project" → framework preset **Other** → output = project root
 
 ### 🔗 My deployed link:
-`PASTE_YOUR_LIVE_URL_HERE`
+https://srikarkumar20.github.io/spendly-deploy-test/
 
 ## Submission
 1. Run `npm run build` → confirm **0 errors** and that the app works.
