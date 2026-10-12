@@ -1,0 +1,13 @@
+{
+  "name": "spendly",
+  "version": "1.0.0",
+  "description": "Spendly - a mini expense tracker (HTML + CSS + TypeScript)",
+  "private": true,
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "typescript": "^5.4.0"
+  }
+}
